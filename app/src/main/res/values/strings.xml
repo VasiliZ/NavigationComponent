@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NavigationComponent</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="second_fragment">Second fragment</string>
+    <string name="to_first_fragment">To first fragment %s</string>
+    <string name="to_second_fragment">To second fragment</string>
 </resources>
